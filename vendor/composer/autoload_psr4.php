@@ -8,4 +8,6 @@ $baseDir = dirname($vendorDir);
 return array(
     'web\\' => array($baseDir . '/web'),
     'core\\' => array($baseDir . '/core'),
+    'Symfony\\Component\\Finder\\' => array($vendorDir . '/symfony/finder'),
+    'Gregwar\\' => array($vendorDir . '/gregwar/captcha/src/Gregwar'),
 );
