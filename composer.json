@@ -1,0 +1,13 @@
+{
+    "name": "guangri007/demo",
+    "description": "test project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "GR",
+            "email": "390239458@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
