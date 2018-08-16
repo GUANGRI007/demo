@@ -10,7 +10,10 @@
     ],
     "minimum-stability": "dev",
     "require": {},
-    "autoload":{ 
+    "autoload":{
+        "files":[
+            "core/function.php"  
+        ], 
         "psr-4":{
             "core\\":"core",
             "web\\":"web"
