@@ -1,13 +1,9 @@
-<?php namespace core:
+<?php namespace core;
 class Bootstrap{
 	public static function run(){
-        self::parse_url();
+        echo 123;
 	}
 
-	public function parse_url(){
 
-
-		
-	}
 
 }
